@@ -1,0 +1,7 @@
+C:\Users\jerred.almasco\OneDrive\OperatorWebService\OperatorWebService\bin\OperatorWebService.dll.config
+C:\Users\jerred.almasco\OneDrive\OperatorWebService\OperatorWebService\bin\OperatorWebService.dll
+C:\Users\jerred.almasco\OneDrive\OperatorWebService\OperatorWebService\bin\OperatorWebService.pdb
+C:\Users\jerred.almasco\OneDrive\OperatorWebService\OperatorWebService\obj\Debug\OperatorWebService.csprojResolveAssemblyReference.cache
+C:\Users\jerred.almasco\OneDrive\OperatorWebService\OperatorWebService\obj\Debug\OperatorWebService.dll
+C:\Users\jerred.almasco\OneDrive\OperatorWebService\OperatorWebService\obj\Debug\OperatorWebService.pdb
+C:\Users\jerred.almasco\OneDrive\OperatorWebService\OperatorWebService\bin\MySql.Data.dll
