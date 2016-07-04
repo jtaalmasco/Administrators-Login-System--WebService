@@ -1,3 +1,4 @@
 # Administrators-Login-System--WebService
 
-On-Progress
+Technology used:
+ASP.NET WebService, C#
